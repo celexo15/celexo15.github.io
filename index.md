@@ -55,10 +55,9 @@ width="100%"></iframe>
 | Film (year)        | Composer {time stamp}        | Type |
 | ------------------ | ---------------------------- | ---- |
 | _Metropolis_ (1927)| Gottfried Huppertz {0:32:34} | 1    |
+| _Sunrise: A Song of Two Humans_ (1972) | Hugo Riesenfeld {1:19:20} | 3 |
 
 
-**My List**: _Film_ (year), composer {Time Stamp} Type
-1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} Type 1
 2. **_Sunrise: A Song of Two Humans_** (1927), score by Hugo Riesenfeld {1:19:20} Type 3
 3. **_Day of Wrath_** (1943), score by Poul Schierbeck {0:00:00} Type 1
 4. **_Know Your Enemy: Japan_** (1945), score by Dmitri Tiomkin {0:24:57} Type 1
