@@ -52,8 +52,8 @@ width="100%"></iframe>
 *the podcast "Star Wars Music Minute" talking about SOLO 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-| Film | Year |Composer | Time Stamp | Type |
-| ---- | ---- | ------- | ---------- | ---- |
+| Film | Year | Composer | Time Stamp | Type |
+| ---- | ---- | -------- | ---------- | ---- |
 | _Metropolis_ | 1927 | Gottfried Huppertz | 0:32:34 | 1 |
 | _Sunrise: A Song of Two Humans_ | 1972 | Hugo Riesenfeld | 1:19:20 | 3 |
 | _Day of Wrath_ | 1943 | Poul Schierbeck | 0:00:01 | 1 |
