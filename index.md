@@ -1,6 +1,10 @@
-The use of the “Dies irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019) and _The Mandalorian_ (2020). 
+The use of the “Dies irae” plainchant has a long history in film music and other assorted media. Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019) and _The Mandalorian_ (2020). 
 
-For more, see all of my supercuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/WZEMzMwDIEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For more, see Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores,” Florilegium 15 (1998): 207-229; and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
+
+For more, see all of my supercuts: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZEMzMwDIEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDndl_YSHMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -32,20 +36,20 @@ For more, see all of my supercuts: <iframe width="560" height="315" src="https:/
 
 See also a few other media appearances: 
 
-1. the film on which I consulted and appeared as a talking head, _Why This Creepy Melody Is In So Many Movies_.
+*the film on which I consulted and appeared as a talking head, _Why This Creepy Melody Is In So Many Movies_.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-2. the podcast _Twenty Thousand Hertz_
+*the podcast _Twenty Thousand Hertz_
 <iframe width="560" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=TTH8184389203&light=true"
 width="100%"></iframe>
 
-3. the "National Public Radio" program _Here and Now_
+*the "National Public Radio" program _Here and Now_
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>
 
-4. the podcast "Star Wars Music Minute" talking about A New Hope
+*the podcast "Star Wars Music Minute" talking about A New Hope
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21540893/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-5. the podcast "Star Wars Music Minute" talking about SOLO 
+*the podcast "Star Wars Music Minute" talking about SOLO 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 **My List**: _Film_ (year), composer {Time Stamp} Type
@@ -295,7 +299,3 @@ width="100%"></iframe>
 238. **_Wednesday S1E1_** (2022), score by Danny Elfman {0:08:00} Type 2
 
 
-[^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
-and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
-
-{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThn3MHqSWgBhjVXe-5pmPLFV01oaToXKJzABt5l4fnuH-A1RWQk_VVNoXS1p1VGxSKUF81Xu3EKo9f/pubhtml?gid=1880458227&amp;single=true&amp;widget=true&amp;headers=false" >}}
