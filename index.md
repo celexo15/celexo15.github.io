@@ -159,21 +159,21 @@ width="100%"></iframe>
 | _Sleepers_ | 1996 | John Williams | 2:22:00 | 3 |
 | _Faceoff_ | 1997 | John Powell | 0:07:00 | 2b |
 | _Scream 2_ | 1997 | Marco Beltrami | 0:40:07 | 2 |
+| _Buffy the Vampire Slayer S1E2_ | 1997 | Walter Murphy | opening titles | 1 |
+| _I Know What You Did Last Summer_ | 1997 | John Debney | 0:25:25 | 3 |
+| _Amistad_ | 1997 | John Williams | 0:17:01 | 2 |
+| _Deep Space 9 S5E19_ | 1997 | Jay Chattaway | 0:25:25 | 3 |
+| _Mulan_ | 1998 | Jerry Goldsmith | 0:55:54 | 2 |
+| _Urban Legend_ | 1998 | Christopher Young | 01:18:37 | 3 |
+| _Armageddon_ | 1998 | Trevor Rabin | 0:24:57 | 2 |
+| _Star Trek: Deep Space 9 S7E10_ | 1998 | Jay Chattaway | 0:09:55 | 3 |
+| _Shakespeare in Love_ | 1998 | Stephen Warbeck | 0:00:57 | 3 |
+| _The Thirteenth Floor_ | 1999 | Harald Kloser | 1:14:08 | 2 |
+| _The Bone Collector_ | 1999 | Craig Armstrong | 01:48:59 | 2 |
+| _The Sixth Sense_ | 1999 | James Newton Howard | 0:15:40 | 2 |
+| _End of Days_ | 1999 | John Debney | 00:00:01 | 1 |
+| _The Messenger: The Joan of Arc Story_ | 1999 | Èric Serra | 2:31:00 | 3 |
 
-100. **_Buffy the Vampire Slayer S1E2_** (1997), score by Walter Murphy {opening titles} Type 1
-101. **_I Know What You Did Last Summer_** (1997), score by John Debney {0:25:25} Type 3 
-102. **_Amistad_** (1997), score by John Williams {0:17:01} Type 2
-103. **_Deep Space 9 S5E19_** (1997), score by Jay Chattaway {0:25:25} Type 3
-104. **_Mulan_** (1998), score by Jerry Goldsmith {0:55:54} Type 2
-105. **_Urban Legend_** (1998), score by Christopher Young {01:18:37} Type 3
-106. **_Armageddon_** (1998), score by Trevor Rabin {0:24:57} Type 2
-107. **_Star Trek: Deep Space 9 S7E10_** (1998), score by Jay Chattaway {0:09:55} Type 3
-108. **_Shakespeare in Love_** (1998), score by Stephen Warbeck {0:00:57} Type 3
-109. **_The Thirteenth Floor_** (1999), score by Harald Kloser {1:14:08} Type 2
-110. **_The Bone Collector_** (1999), score by Craig Armstrong {01:48:59} Type 2
-111. **_The Sixth Sense_** (1999), score by James Newton Howard {0:15:40} Type 2
-112. **_End of Days_** (1999), score by John Debney {00:00:01} Type 1
-113. **_The Messenger: The Joan of Arc Story_** (1999), score by Èric Serra {2:31:00} Type 3
 114. **_The World Is Not Enough_** (1999), score by David Arnold {1:53:51} Type 2
 115. **_The Road to El Dorado_** (2000), score by Hans Zimmer & John Powell {0:08:32} Type 1
 116. **_Gladiator_** (2000), score by Hans Zimmer & Lisa Gerrard {2:29:00} Type 1
