@@ -63,12 +63,13 @@ width="100%"></iframe>
 | _Angel on My Shoulder_ | 1946 | Dmitri Tiomkin | 0:13:00 | 1 |
 | _Young Bess_ | 1953 | Miklós Rózsa | 0:27:48 | 1 |
 | _I Confess_ | 1953 | Dmitri Tiomkin | 0:01:55 | 1 |
-| _The Sheep Has Five Legs_ | 1954 | Georges Van Parys | 2 |
+| _The Sheep Has Five Legs_ | 1954 | Georges Van Parys | 0:15:25 | 2 |
 | _Garden of Evil_ | 1954 | Bernard Herrmann | 0:28:00 | 1 |
+| _On the Waterfront_ | 1954 | Leonard Bernstein | 1:33:20 | 2 |
+| _Between Heaven and Hell_ | 1956 | Hugo Friedhofer | 0:00:30 | 1 |
+| _Sleeping Beauty_ | 1957 | Jack Lawrence & Sammy Fain | 0:30:00 | 3 |
 
-11. **_On the Waterfront_** (1954), score by Leonard Bernstein {1:33:20} Type 2
-12. **_Between Heaven and Hell_** (1956), score by Hugo Friedhofer {0:00:30} Type 1
-13. **_Sleeping Beauty_** (1957), score by Jack Lawrence & Sammy Fain {0:30:00}
+
 14. **_The Seventh Seal_** (1957), score by Erik Nodren {00:08:00} Type 2
 15. **_The Screaming Skull_** (1958), score by Ernst Gold {0:02:02} Type 1
 16. **_The Return of Dracula_** (1958), score by Gerald Fried {0:00:14} Type 1
