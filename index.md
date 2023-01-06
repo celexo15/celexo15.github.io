@@ -115,52 +115,50 @@ width="100%"></iframe>
 | _Superstition_ | 1982 | David Gibney | 0:04:05 | 1 | 
 | _Top Secret!_ | 1984 | Maurice Jarre | 0:32:17 | 1 | 
 | _Poltergeist_ | 1982 | Jerry Goldsmith | 01:44:01 | 2 |
-
-58. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass Type 3
-59. **_Legend_** (1985), score by Tangerine Dream {0:21:14} Type 2
-60. **_Friday the 13th: A New Beginning_** (1985), score by Henry Manfredini {00:01:59} Type 2
-61. **_Back to the Future_** (1985), score by Alan Silvestri {1:07:25} Type 2
-62. **_Friday the 13th: Part VI, Jason Lives_** (1986), score by Henry Manfredini {00:04:15) Type 2
-63. **_Big Trouble in Little China_** (1986), score by John Carpenter/Alan Howarth {00:11:11} Type 1
-64. **_The Mission_** (1986), score by Ennio Morricone {00:32:56} Type 1
-65. **_Ferris Bueller's Day Off_** (1986), score by Ira Newborn {00:00:08} Type 2
-66. **_Empire of the Sun_** (1987), score by John Williams {0:30:00} Type 3
-67. **_Friday the 13th: Part VII, The New Blood_** (1988), score by Henry Manfredini {00:15:03} Type 1-2
-68. **_Predator_** (1987), score by Alan Silvestri {1:15:00} Type 2b
-69. **_The Accidental Tourist_** (1988), score by John Williams {1:54:33} Type 2
-70. **_Willow_** (1988), score by James Horner {1:24:20} Type 2 
-70. **_Murder She Wrote S5E13_** (1989), score by David Bell {0:13:00}, Type 1
-71. **_Quantam Leap S2E11_** (1989), score by Mike Post {0:42:01], Type 2
-72. **_Batman_** (1989), score by Danny Elfman {1:13:33} T3
-73. **_Dead Poets Society_** (1989), score by Maurice Jarre {0:35:00} Type 3
-74. **_Home Alone_** (1990), score by John Williams {00:06:58} Type 1
-75. **_Gremlins 2_** (1990), score by Jerry Goldsmith {01:34:48} Type 2
-76. **_The Witches_** (1990), score by Stanley Myers {0:28:00} Type 1
-77. **_Maniac Cop 2_** (1990), score by Jay Chattaway {1:17:51} Type 2
-78. **_Presumed Innocent_** (1990), score by John Williams {0:45:19} Type 2
-79. **_Beauty and the Beast_** (1991), score by Alan Mencken Type 2b
-80. **_Sleeping with the Enemy_** (1991), score by Jerry Goldsmith {1:25:20} Type 1
-81. **_Batman Returns_** (1992), score by Danny Elfman {00:12:15} Type 1
-82. **_Jurassic Park_** (1993), score by John Williams {01:18:30} Type 1
-83. **_The Nightmare Before Christmas_** (1993), score by Danny Elfman Type 1
-84. **_Groundhog Day_** (1993), score by George Fenton Type 2
-85. **_Demolition Man_** (1993), score by Eliot Goldenthal {00:00:27} Type 2
-86. **_Batman: Mask of the Phantasm_** (1993), score by Shirley Walker {0:02:00} Type 2
-87. **_Needful Things_** (1993), score by Patrick Doyle {1:40:20} Type 1
-88. **_The Lion King_** (1994), score by Hans Zimmer Type 1
-89. **_Highlander III: The Sorcerer_** (1994), score by J. Peter Robinson {0:32:10} Type 2
-89. **_Tales from the Dark Side_** (1994), score by Bill Frisell {0:00:01} Type 3b
-90. **_Crimson Tide_** (1995), score by Hans Zimmer {01:30:00}, Type 1
-91. **_Nixon_** (1995), score by John Williams {0:05:39} Type 2
-92. **_The Quick and the Dead_** (1995), score by Alan Silvestri {1:03:14} Type 2
-92. **_Independence Day_** (1996), score by David Arnold {1:06:42} Type 2
-93. **_The Rock_** (1996), score by Smith/Zimmer {0:20:26}, Type 1
-94. **_The Hunchback of Notre Dame_** (1996), score by Alan Mencken {0:03:38} Type 1
-95. **_Mars Attacks_** (1996), score by Danny Elfman {00:02:41} Type 2
-96. **_A Time to Kill_** (1996), score by Elliot Goldenthal {0:49:20} Type 1
-97. **_Sleepers_** (1996), score by John Williams {2:22:00} Type 3
-98. **_Faceoff_** (1997), score by John Powell {0:07:00}, Type 2b
-99. **_Scream 2_** (1997), score by Marco Beltrami {0:40:07} Type 2
+| _Mishima: A Life in Four Chapters_ | 1985 | Philip Glass | 00:35:15 | 3 |
+| _Legend_ | 1985 | Tangerine Dream | 0:21:14 | 2 |
+| _Friday the 13th: A New Beginning_ | 1985 | Henry Manfredini | 00:01:59 | 2 |
+| _Back to the Future_ | 1985 | Alan Silvestri | 1:07:25 | 2 |
+| _Friday the 13th: Part VI, Jason Lives_ | 1986 | Henry Manfredini | 00:04:15 | 2 | 
+| _Big Trouble in Little China_ | 1986 | John Carpenter/Alan Howarth | 00:11:11 | 1 | 
+| _The Mission_ | 1986 | Ennio Morricone | 00:32:56 | 1 |
+| _Ferris Bueller's Day Off_ | 1986 | Ira Newborn | 00:00:08 | 2 |
+| _Empire of the Sun_ | 1987 | John Williams | 0:30:00 | 3 |
+| _Friday the 13th: Part VII, The New Blood_ | 1988 | Henry Manfredini | 00:15:03 | 1-2 | 
+| _Predator_ | 1987 | Alan Silvestri | 1:15:00 | 2b |
+| _The Accidental Tourist_ | 1988 | John Williams | 1:54:33 | 2 | 
+| _Willow_ | 1988 | James Horner | 1:24:20 | 2 |
+| _Murder She Wrote S5E13_ | 1989 | David Bell | 0:13:00 | 1 |
+| _Quantam Leap S2E11_ | 1989 | Mike Post | 0:42:01 | 2 |
+| _Batman_ | 1989 | Danny Elfman | 1:13:33 | 3 |
+| _Dead Poets Society_ | 1989 | Maurice Jarre | 0:35:00 |  3 |
+| _Home Alone_ | 1990 | John Williams | 00:06:58 | 1 |
+| _Gremlins 2_ | 1990 | Jerry Goldsmith | 01:34:48 | 2 |
+| _The Witches_ | 1990 | Stanley Myers | 0:28:00 | 1 |
+| _Maniac Cop 2_ | 1990 | Jay Chattaway | 1:17:51 | 2 |
+| _Presumed Innocent_ | 1990 | John Williams | 0:45:19 | 2 | 
+| _Beauty and the Beast_ | 1991 | Alan Mencken | 0:10:25 | 2b |
+| _Sleeping with the Enemy_ | 1991 | Jerry Goldsmith | 1:25:20 | 1 |
+| _Batman Returns_ | 1992 | Danny Elfman | 00:12:15 | 1 |
+| _Jurassic Park_ | 1993 | John Williams | 01:18:30 | 1 | 
+| _The Nightmare Before Christmas_ | 1993 | Danny Elfman | 0:15:35 | 1 |
+| _Demolition Man_ | 1993 | Eliot Goldenthal | 00:00:27 | 2 | 
+| _Batman: Mask of the Phantasm_ | 1993 | Shirley Walker | 0:02:00 | 2 |
+| _Needful Things_ | 1993 | Patrick Doyle | 1:40:20 | 1 |
+| _The Lion King_ | 1994 | Hans Zimmer | 0:37:25 | 1 |
+| _Highlander III: The Sorcerer_ | 1994 | J. Peter Robinson | 0:32:10 | 2 |
+| _Tales from the Dark Side_ | 1994 | Bill Frisell | 0:00:01 | 3b |
+| _Crimson Tide_ | 1995 | Hans Zimmer | 01:30:00 | 1 |
+| _Nixon_ | 1995 | John Williams | 0:05:39 | 2 |
+| _The Quick and the Dead_ | 1995 | Alan Silvestri | 1:03:14 | 2 | 
+| _Independence Day_ | 1996 | David Arnold | 1:06:42 | 2 |
+| _The Rock_ | 1996 | Smith/Zimmer | 0:20:26 | 1 |
+| _The Hunchback of Notre Dame_ | 1996 | Alan Mencken | 0:03:38 | 1 |
+| _Mars Attacks_ | 1996 | Danny Elfman | 00:02:41 | 2 |
+| _A Time to Kill_ | 1996 | Elliot Goldenthal | 0:49:20 | 1 |
+| _Sleepers_ | 1996 | John Williams | 2:22:00 | 3 |
+| _Faceoff_ | 1997 | John Powell | 0:07:00 | 2b |
+| _Scream 2_ | 1997 | Marco Beltrami | 0:40:07 | 2 |
 100. **_Buffy the Vampire Slayer S1E2_** (1997), score by Walter Murphy {opening titles} Type 1
 101. **_I Know What You Did Last Summer_** (1997), score by John Debney {0:25:25} Type 3 
 102. **_Amistad_** (1997), score by John Williams {0:17:01} Type 2
