@@ -46,30 +46,30 @@ Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in
 
 Here are the various podcast episodes on which I have appeared to talk about the Dies Irae: 
 
-# _Why This Creepy Melody Is In So Many Movies_
+### _Why This Creepy Melody Is In So Many Movies_
 
-*the film on which I consulted and appeared as a talking head
+*the VOX video on which I consulted and appeared as a talking head
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-# _Twenty Thousand Hertz_
+### _Twenty Thousand Hertz_
 
 <iframe width="560" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=TTH8184389203&light=true"
 width="100%"></iframe>
 
-# _Here and Now_
+### _Here and Now_
 
 *a podcast version of the "National Public Radio" show
 
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>
 
-# _Star Wars Music Minute_ 
+### _Star Wars Music Minute_ 
 
 *a podcast where we nerd out about 5 minutes from _A New Hope_
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21540893/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-# _Star Wars Music Minute_
+### _Star Wars Music Minute_
 
 *a podcast where we nerd out about 5 minutes from _SOLO_ 
 
