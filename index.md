@@ -159,6 +159,7 @@ width="100%"></iframe>
 | _Sleepers_ | 1996 | John Williams | 2:22:00 | 3 |
 | _Faceoff_ | 1997 | John Powell | 0:07:00 | 2b |
 | _Scream 2_ | 1997 | Marco Beltrami | 0:40:07 | 2 |
+
 100. **_Buffy the Vampire Slayer S1E2_** (1997), score by Walter Murphy {opening titles} Type 1
 101. **_I Know What You Did Last Summer_** (1997), score by John Debney {0:25:25} Type 3 
 102. **_Amistad_** (1997), score by John Williams {0:17:01} Type 2
