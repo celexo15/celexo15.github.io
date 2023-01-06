@@ -99,23 +99,23 @@ width="100%"></iframe>
 | _From Beyond the Grave_ | 1974 | Douglas Gamley | 00:00:38 | 1 |
 | _The Devil is a Woman_ | 1974 | Ennio Morricone | 0:00:54 | 1 |
 | _The Omen_ | 1976 | Jerry Goldsmith | 0:00:08 | 1 |
+| _Obsession_ | 1976 | Bernard Herrmann | 0:52:06 | 1 |
+| _The Car_ | 1977 | Leonard Rosenman | 00:00:17 | 1 |
+| _A New Hope_ | 1977 | John Williams | 00:40:15 | 1 |
+| _Close Encounters of the Third Kind_ | 1977 | John Williams | 00:44:12 | 1 |
+| _Superman_ | 1978 | John Williams | 0:12:36 | 3 |
+| _Cruise Into Terror_ | 1978 | Gerald Fried | 0:01:00 | 1 |
+| _The Medusa Touch_ | 1978 | Michael J. Lewis | 1:41:06 | 2 |
+| _Alien_ | 1979 | Jerry Goldsmith | 01:53:30 | 2 | 
+| _The Killer Nun_ | 1979 | Alessandro Alessandroni | 0:00:01 | 1 | 
+| _Moonraker_ | 1979 | John Barry | 0:32:30 | 3 | 
+| _The Shining_ | 1980 | Wendy Carlos | 00:00:00 | 1 | 
+| _Heavy Metal_ | 1981 | Elmer Bernstein | 1:10:48 | 2 | 
+| _Conan the Barbarian_ | 1982 | Basil Poledouris | 01:51:13 | 1 |
+| _Superstition_ | 1982 | David Gibney | 0:04:05 | 1 | 
+| _Top Secret!_ | 1984 | Maurice Jarre | 0:32:17 | 1 | 
+| _Poltergeist_ | 1982 | Jerry Goldsmith | 01:44:01 | 2 |
 
-44. **_Obsession_** (1976), score by Bernard Herrmann {0:52:06} Type 1
-45. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} Type 1
-46. **_A New Hope_** (1977), score by John Williams {00:40:15} Type 1
-47. **_Close Encounters of the Third Kind_** (1977), score by John Williams {00:44:12} Type 1
-48. **_Superman_** (1978), score by John Williams {0:12:36} Type 3
-49. **_Cruise Into Terror_** (1978), score by Gerald Fried {0:01:00} Type 1
-50. **_The Medusa Touch_** (1978), score by Michael J. Lewis {1:41:06} Type 2
-51. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} Type 2
-52. **_The Killer Nun_** (1979), score by Alessandro Alessandroni {0:00:01} Type 1
-53. **_Moonraker_** (1979), score by John Barry {0:32:30} Type 3
-55. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} Type 1
-56. **_Heavy Metal_** (1981), score by Elmer Bernstein {1:10:48} Type 2
-57. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} Type 1
-58. **_Superstition_** (1982), score by David Gibney {0:04:05} Type 1
-59. **_Top Secret!_** (1984), score by Maurice Jarre {0:32:17} Type 1
-57. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} Type 2
 58. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass Type 3
 59. **_Legend_** (1985), score by Tangerine Dream {0:21:14} Type 2
 60. **_Friday the 13th: A New Beginning_** (1985), score by Henry Manfredini {00:01:59} Type 2
