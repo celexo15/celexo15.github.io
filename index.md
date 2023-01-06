@@ -83,19 +83,18 @@ width="100%"></iframe>
 | _Becket_ | 1964 | Laurence Rosenthal | 0:03:40 | 1 |
 | _I Malamando_ | 1964 | Ennio Morricone | 1:15:50 | 1 |
 | _Fists in the Pocket_ | 1965 | Ennio Morricone | 0:00:01 | 2 |
-
-29. **_Nightmare Castle_** (1965), score by Ennio Morricone {0:25:30} Type 1
-30. **_The Bible: In the Beginning_** (1966), score by Toshiro Mayuzumi {0:27:50} Type 1
-31. **_War and Peace_** (1966), score by Vyacheslav Ovchinnikov {1:44:39} Type 1
-32. **_Escalation_** (1968), score by Ennio Morricone {0:00:00} Type 1
-33. **_Dracula has Risen from the Grave_** (1968), score by James Bernard {0:13:25} Type 1B
-34. **_The Strange Vice of Mrs. Wardh_** (1971), score by Nora Orlandi {0:28:46} Type 1B
-35. **_Lust for a Vampire_** (1971), score by Harry Robinson {0:50:15} Type 1
-36. **_A Clockwork Orange_** (1971), score by Wendy Carlos {00:01:00} Type 1
-37. **_Mephisto Waltz_** (1971), score by Jerry Goldsmith {00:00:31} Type 1
-38. **_The Devils_** (1971), score by Peter Maxwell Davies {0:06:21} Type 1
-39. **_Vampire Circus_** (1972), score by David Whitaker {0:49:12} Type 1
-40. **_The Vault of Horror_** (1973), score by Douglas Gamley {0:00:06} Type 1
+| _Nightmare Castle_ | 1965 | Ennio Morricone | 0:25:30 | 1 |
+| _The Bible: In the Beginning_ | 1966 | Toshiro Mayuzumi | 0:27:50 | 1 |
+| _War and Peace_ | 1966 | Vyacheslav Ovchinnikov | 1:44:39 | 1 |
+| _Escalation_ | 1968 | Ennio Morricone | 0:00:00 | 1 |
+| _Dracula has Risen from the Grave_ | 1968 | James Bernard | 0:13:25 | 1B |
+| _The Strange Vice of Mrs. Wardh_ | 1971 | Nora Orlandi | 0:28:46 | 1B |
+| _Lust for a Vampire_ | 1971 | Harry Robinson | 0:50:15 | 1 |
+| _A Clockwork Orange_ | 1971 | Wendy Carlos | 00:01:00 | 1 | 
+| _Mephisto Waltz_ | 1971 | Jerry Goldsmith | 00:00:31 | 1 |
+| _The Devils_ | 1971 | Peter Maxwell Davies | 0:06:21 | 1 | 
+| _Vampire Circus_ | 1972 | David Whitaker | 0:49:12 | 1 |
+| _The Vault of Horror_ | 1973 | Douglas Gamley | 0:00:06 | 1 |
 41. **_Le Trio Infernal_** (1974), score by Ennio Morricone {1:06:20} Type 1B
 42. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} Type 1
 43. **_The Devil is a Woman_** (1974), score by Ennio Morricone {0:00:54} Type 1
