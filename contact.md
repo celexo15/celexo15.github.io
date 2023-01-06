@@ -1,6 +1,6 @@
 <!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://formspree.io/f/xnqyqbwg"
+  action="[https://formspree.io/f/xnqyqbwg](https://formspree.io/f/xnqyqbwg)"
   method="POST"
 >
   <label>
