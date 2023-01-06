@@ -8,7 +8,7 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 3. [My List of Dies Irae Quotations ](#my-list-of-dies-irae-quotations)
 
 
-##### Playlist of YouTube Supercuts
+# Playlist of YouTube Supercuts
 
 Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in film, television, and video games. 
 
@@ -40,9 +40,9 @@ Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGamO1Lp4nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Collection of Podcast Appearances
+# Collection of Podcast Appearances
 
 Here are the various podcast episodes on which I have appeared to talk about the Dies Irae: 
 
@@ -60,9 +60,9 @@ width="100%"></iframe>
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21540893/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 *the podcast "Star Wars Music Minute" talking about SOLO 
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></p>
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-##### My List of Dies Irae Quotations
+# My List of Dies Irae Quotations
 
 | Film | Year | Composer | Time Stamp | Type |
 | ---- | ---- | -------- | ---------- | ---- |
