@@ -2,7 +2,9 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 
 [^1]: For more, see Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores,” Florilegium 15 (1998): 207-229; and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
 
-Here is the collection of my YouTube supercuts: 
+### Playlist of YouTube Supercuts
+
+Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in film, television, and video games. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZEMzMwDIEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -34,7 +36,9 @@ Here is the collection of my YouTube supercuts:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-See also a few other media appearances: 
+### Collection of Podcast Appearances
+
+Here are the various podcast episodes on which I have appeared to talk about the Dies Irae: 
 
 *the film on which I consulted and appeared as a talking head, _Why This Creepy Melody Is In So Many Movies_.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
@@ -52,6 +56,7 @@ width="100%"></iframe>
 *the podcast "Star Wars Music Minute" talking about SOLO 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+### My List of Dies Irae Quotations
 
 | Film | Year | Composer | Time Stamp | Type |
 | ---- | ---- | -------- | ---------- | ---- |
