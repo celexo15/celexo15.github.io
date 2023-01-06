@@ -73,17 +73,17 @@ width="100%"></iframe>
 | _The Return of Dracula_ | 1958 | Gerald Fried | 0:00:14 | 1 |
 | _Compulsion_ | 1959 | Lionel Newman | 1:03:20 | 1 |
 | _Some Like It Hot_ | 1959 | Adolph Deutsch | 1:58:01 | 2 |
+| _Fall of the House of Usher_ | 1960 | Les Baxter | 1:08:11 | 1 |
+| _The Unforgiven_ | 1960 | Dmitri Tiomkin | 1:16:42 | 2 |
+| _Psycho_ | 1960 | Bernard Herrmann | 0:11:50 | 3 |
+| _El Cid_ | 1961 | Miklós Rózsa | 1:34:23 | 1 |
+| _The Great Escape_ | 1963 | Elmer Bernstein | 02:11:15 | 2 |
+| _Jason and the Argonauts_ | 1963 | Bernard Herrmann | 1:37:00 | 1 |
+| _The Jar_ | 1964 | Bernard Herrmann | 0:09:59 | 1 |
+| _Becket_ | 1964 | Laurence Rosenthal | 0:03:40 | 1 |
+| _I Malamando_ | 1964 | Ennio Morricone | 1:15:50 | 1 |
+| _Fists in the Pocket_ | 1965 | Ennio Morricone | 0:00:01 | 2 |
 
-19. **_Fall of the House of Usher_** (1960), score by Les Baxter {1:08:11} Type 1
-20. **_The Unforgiven_** (1960), score by Dmitri Tiomkin {1:16:42} Type 2
-21. **_Psycho_** (1960), score by Bernard Herrmann {0:11:50} Type 3
-22. **_El Cid_** (1961), score by Miklós Rózsa {1:34:23} Type 1
-23. **_The Great Escape_** (1963), score by Elmer Bernstein {02:11:15} Type 2
-24. **_Jason and the Argonauts_** (1963), score by Bernard Herrmann {1:37:00} Type 1
-25. **_The Jar_** (1964), score by Bernard Herrmann {0:09:59} Type 1
-26. **_Becket_** (1964), score by Laurence Rosenthal {0:03:40} Type 1
-27. **_I Malamando_** (1964), score by Ennio Morricone {1:15:50} Type 1
-28. **_Fists in the Pocket_** (1965), score by Ennio Morricone {0:00:01} Type 2
 29. **_Nightmare Castle_** (1965), score by Ennio Morricone {0:25:30} Type 1
 30. **_The Bible: In the Beginning_** (1966), score by Toshiro Mayuzumi {0:27:50} Type 1
 31. **_War and Peace_** (1966), score by Vyacheslav Ovchinnikov {1:44:39} Type 1
