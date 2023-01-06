@@ -68,13 +68,12 @@ width="100%"></iframe>
 | _On the Waterfront_ | 1954 | Leonard Bernstein | 1:33:20 | 2 |
 | _Between Heaven and Hell_ | 1956 | Hugo Friedhofer | 0:00:30 | 1 |
 | _Sleeping Beauty_ | 1957 | Jack Lawrence & Sammy Fain | 0:30:00 | 3 |
+| _The Seventh Seal_ | 1957 | Erik Nodren | 00:08:00 | 2 |
+| _The Screaming Skull_ | 1958 | Ernst Gold | 0:02:02 | 1 |
+| _The Return of Dracula_ | 1958 | Gerald Fried | 0:00:14 | 1 |
+| _Compulsion_ | 1959 | Lionel Newman | 1:03:20 | 1 |
+| _Some Like It Hot_ | 1959 | Adolph Deutsch | 1:58:01 | 2 |
 
-
-14. **_The Seventh Seal_** (1957), score by Erik Nodren {00:08:00} Type 2
-15. **_The Screaming Skull_** (1958), score by Ernst Gold {0:02:02} Type 1
-16. **_The Return of Dracula_** (1958), score by Gerald Fried {0:00:14} Type 1
-17. **_Compulsion_** (1959), score by Lionel Newman {1:03:20} Type 1
-18. **_Some Like It Hot_** (1959), score by Adolph Deutsch {1:58:01} Type 2
 19. **_Fall of the House of Usher_** (1960), score by Les Baxter {1:08:11} Type 1
 20. **_The Unforgiven_** (1960), score by Dmitri Tiomkin {1:16:42} Type 2
 21. **_Psycho_** (1960), score by Bernard Herrmann {0:11:50} Type 3
