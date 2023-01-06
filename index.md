@@ -202,32 +202,32 @@ width="100%"></iframe>
 | _Pirates of the Caribbean 3: At World's End_ | 2007 | Hans Zimmer | 02:34:00 | 3 | 
 | _Perfume: The Story of a Murderer_ | 2006 | Reinhold Heil | 0:14:23 | 3 |
 | _The Illusionist_ | 2006 | Philip Glass | 0:24:17 | 3 | 
+| _The Bucket List_ | 2007 | Marc Shaiman | 0:06:23 | 2B |
+| _Indiana Jones and the Kingdom of the Crystal Skull_ | 2008 | John Williams | 00:04:18 | 1 |
+| _Sweeney Todd: Demon Barber of Fleet Street_ | 2007 | Stephen Sondheim | 1:13:39 | 3-2 |
+| _Bones S3E13_ | 2008 | Peter Himmelman | 0:24:38 | 1 |
+| _Angels and Demons_ | 2009 | Hans Zimmer | 01:57:31 | 2 |
+| _Bolt_ | 2008 | John Powell | 1:22:38 | 3 |
+| _Terminator Salvation_ | 2009 | Danny Elfman | 0:59:42 | 3 |
+| _Transformers: Revenge of the Fallen_ | 2009 | Steve Jablonsky | 1:43:52 | 3B |
+| _Drag Me to Hell_ | 2009 | Christopher Young | 1:29:33 | 3 | 
+| _Fantastic Mr. Fox_ | 2009 | Alexandre Desplat | 0:58:29 | 3 |
+| _Don't Be Afraid of the Dark_ | 2010 | Marco Beltrami | 0:31:17 | 2 | 
+| _LOST S6E1_ | 2010 | Michael Giacchino | 0:22:50 | 2 |
+| _Predators_ | 2010 | John Debney | 1:17:16 | 3 |
+| _Mission Impossible 4: Ghost Protocol_ | 2011 | Michael Giacchino | 00:29:59 | 1 |
+| _Pirates of the Caribbean 4: On Stranger Tides_ | 2011 | Hans Zimmer | 01:55:00 | 1 | 
+| _Thor_ | 2011 | Patrick Doyle | 00:57:31 | 1 |
+| _Kung Fu Panda 2_ | 2011 | Zimmer/Powell | 1:02:39 | 3 | 
+| _Harry Potter and the Deathly Hallows, part 2_ | 2011 | Alexandre Desplat | 0:55:00 | 3 |
+| _Wreck It Ralph_ | 2012 | Henry Jackman | 00:25:57 | 1 |
+| _The Bourne Legacy_ | 2012 | James Newton Howard | 0:01:00 | 3 |
+| _Psych S6E11_ | 2012 | Adam Cohen | 0:33:19 | 1 |
+| _The Best Offer_ | 2013 | Ennio Morricone | 0:13:18, 2:01:07, end titles | 2 |
+| _Iron Man 3_ | 2013 | Brian Tyler | 00:24:41 | 1 |
+| _The Newsroom S2E7_ | 2013 | Johnny Klimek | 0:48:12 | 3 |
+| _Game of Thrones S5E1_ | 2014 | Ramin Djiwadin | 00:22:15 | 1 |
 
-143. **_The Bucket List_** (2007), score by Marc Shaiman {0:06:23} Type 2B
-144. **_Indiana Jones and the Kingdom of the Crystal Skull_** (2008), score by John Williams {00:04:18} Type 1
-145. **_Sweeney Todd: Demon Barber of Fleet Street_** (2007), score by Stephen Sondheim {1:13:39} Type 3-2
-146. **_Bones S3E13_** (2008), score by Peter Himmelman {0:24:38} Type 1
-147. **_Angels and Demons_** (2009), score by Hans Zimmer {01:57:31} Type 2
-148. **_Bolt_** (2008), score by John Powell {1:22:38} Type 3
-149. **_Terminator Salvation_** (2009), score by Danny Elfman {0:59:42} Type 3
-150. **_Transformers: Revenge of the Fallen_** (2009), score by Steve Jablonsky {1:43:52} Type 3B
-151. **_Drag Me to Hell_** (2009), score by Christopher Young {1:29:33} Type 3
-152. **_Fantastic Mr. Fox_** (2009), score by Alexandre Desplat {0:58:29} Type 3
-153. **_Don't Be Afraid of the Dark_** (2010), score by Marco Beltrami {0:31:17} Type 2
-154. **_LOST S6E1_** (2010), score by Michael Giacchino {0:22:50} Type 2
-155. **_Predators_** (2010), score by John Debney {1:17:16} Type 3
-156. **_Mission Impossible 4: Ghost Protocol_** (2011), score by Michael Giacchino {00:29:59} Type 1
-157. **_Pirates of the Caribbean 4: On Stranger Tides_** (2011), score by Hans Zimmer {01:55:00} Type 1
-158. **_Thor_** (2011), score by Patrick Doyle {00:57:31} Type 1
-159. **_Kung Fu Panda 2_** (2011), score by Zimmer/Powell {1:02:39} Type 3
-160. **_Harry Potter and the Deathly Hallows, part 2_** (2011), score by Alexandre Desplat {0:55:00} Type 3
-161. **_Wreck It Ralph_** (2012), score by Henry Jackman {00:25:57} Type 1
-162. **_The Bourne Legacy_** (2012), score by James Newton Howard {0:01:00} Type 3
-163. **_Psych S6E11_** (2012), score by Adam Cohen {0:33:19} Type 1
-164. **_The Best Offer_** (2013), score by Ennio Morricone {0:13:18, 2:01:07, end titles} Type 2, Type 3
-165. **_Iron Man 3_** (2013), score by Brian Tyler {00:24:41} Type 1
-166. **_The Newsroom S2E7_** (2013), score by Johnny Klimek {0:48:12} Type 3
-167. **_Game of Thrones S5E1_** (2014), score by Ramin Djiwadin {00:22:15} Type 1
 168. **_Crimson Peak_** (2015), score by Fernando Velazquez {00:00:00} Type 1
 169. **_Glitch S1E3_** (2015), score by Cornel Wilczeck {00:50:00} Type 2
 170. **_Terminator Genisys_** (2015), score by Lorne Balfe {1:27:03} Type 3b
