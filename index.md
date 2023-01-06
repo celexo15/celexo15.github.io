@@ -59,14 +59,13 @@ width="100%"></iframe>
 | _Sunrise: A Song of Two Humans_ | 1972 | Hugo Riesenfeld | 1:19:20 | 3 |
 | _Day of Wrath_ | 1943 | Poul Schierbeck | 0:00:01 | 1 |
 | _Know Your Enemy: Japan_ | 1945 | Dmitri Tiomkin | 0:24:57 | 1 |
+| _It's a Wonderful Life_ | 1946 | Dmitri Tiomkin | 0:25:15 | 1-3 |
+| _Angel on My Shoulder_ | 1946 | Dmitri Tiomkin | 0:13:00 | 1 |
+| _Young Bess_ | 1953 | Miklós Rózsa | 0:27:48 | 1 |
+| _I Confess_ | 1953 | Dmitri Tiomkin | 0:01:55 | 1 |
+| _The Sheep Has Five Legs_ | 1954 | Georges Van Parys | 2 |
+| _Garden of Evil_ | 1954 | Bernard Herrmann | 0:28:00 | 1 |
 
-
-5. **_It's a Wonderful Life_** (1946), score by Dmitri Tiomkin Type 1-3
-6. **_Angel on My Shoulder_** (1946), score by Dmitri Tiomkin {0:13:00} Type 1
-7. **_Young Bess_** (1953), score by Miklós Rózsa {0:27:48} Type 1
-8. **_I Confess_** (1953), score by Dmitri Tiomkin {0:01:55} Type 1
-9. **_The Sheep Has Five Legs_** (1954), score by Georges Van Parys Type 2
-10. **_Garden of Evil_** (1954), score by Bernard Herrmann {0:28:00} Type 1
 11. **_On the Waterfront_** (1954), score by Leonard Bernstein {1:33:20} Type 2
 12. **_Between Heaven and Hell_** (1956), score by Hugo Friedhofer {0:00:30} Type 1
 13. **_Sleeping Beauty_** (1957), score by Jack Lawrence & Sammy Fain {0:30:00}
