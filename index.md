@@ -227,77 +227,77 @@ width="100%"></iframe>
 | _Iron Man 3_ | 2013 | Brian Tyler | 00:24:41 | 1 |
 | _The Newsroom S2E7_ | 2013 | Johnny Klimek | 0:48:12 | 3 |
 | _Game of Thrones S5E1_ | 2014 | Ramin Djiwadin | 00:22:15 | 1 |
+| _Crimson Peak_ | 2015 | Fernando Velazquez | 00:00:00 | 1 |
+| _Glitch S1E3_ | 2015 | Cornel Wilczeck | 00:50:00 | 2 |
+| _Terminator Genisys_ | 2015 | Lorne Balfe | 1:27:03 | 3b |
+| _10 Cloverfield Lane_ | 2016 | Bear McCreary | 00:00:00 | 1 |
+| _Colossal_ | 2016 | Bear McCreary | 01:38:11 | 1 |
+| _Rogue One_ | 2016 | Michael Giacchino | 01:12:48 | 1 |
+| _Game of Thrones S6E5_ | 2016 | Ramin Djawadi | 0:13:00 | 1 |
+| _Star Trek Beyond_ | 2016 | Michael Giacchino | 1:28:08 | 3 |
+| _Dead by Daylight_ | 2016 | Michael April | main menu | 2 |
+| _Dr. Strange_ | 2016 | Michael Giacchino | 1:35:36 | 2 |
+| _Doctor Who: The Return of Mysterio S10_ | 2016 | Murray Gold | 0:36:19 | 2 |
+| _Pirates of the Caribbean 5: Dead Men Tell No Tales_ | 2017 | Geoff Zanelli | 00:10:30 | 1 |
+| _The Good Place S1E11_ | 2017 | David Schwartz | 00:23:42 | 1 |
+| _Justice League_ | 2017 | Danny Elfman | 0:25:25 | 3 |
+| _Survivor S35E9_ | 2017 | David Vanacore | 0:20:50 | 3 |
+| _The Scariest Story Ever Told: A Mickey Mouse Spooktacular_ | 2017 | Christopher Willis | 0:07:14 | 2 |
+| _Final Space S1E1_ | 2018 | Shelby Merry | opening titles | 3 |
+| _The Spy Gone North_ | 2018 | Yeong-wook Jo | 01:04:40 | 1 |
+| _Avengers: Infinity War_ | 2018 | Alan Silvestri | 0:33:52 | 1 |
+| _Ready Player One_ | 2018 | Alan Silvestri | 00:57:51 | 2 |
+| _Star Wars Rebels S4E11_ | 2018 | Kevin Kiner | 00:02:26 | 2 |
+| _Star Wars Rebels S4E13_ | 2018 | Kevin Kiner | 00:14:28 | 2 |
+| _Solo: A Star Wars Story_ | 2018 | John Powell | 0:48:39 | 2 |
+| _Stranger Things S3E8_ | 2019 | Michael Stein & Kyle Dixon | 0:41:15 | 2 |
+| _Fruits Basket S2E21_ | 2019 | Taku Kishimoto | 0:13:17 | 2 |
+| _Eli_ | 2019 | Bear McCreary | 1:19:52 | 1 |
+| _1BR_ | 2019 | Ronen Landa | 0:27:00 | 3 |
+| _Doctor Sleep_ | 2019 | The Newton Brothers | 2:18:33 | 2 |
+| _Frozen 2_ | 2019 | Christophe Beck | 0:16:40 | 2 |
+| _Succession S2E10_ | 2019 | Nicholas Britell | 1:09:00 | 2 |
+| _Toy Story_ | 2019 | Randy Newman | 1:15:20 | 2 |
+| _Christmas Prince: The Royal Baby_ | 2019 | Zack Ryan | 0:59:38 | 3 |
+| _Fargo S4E7_ | 2020 | Jeff Russo | 0:25:31 | 3 |
+| _Onward_ | 2020 | Jeff & Mychael Danna | 1:06:00 | 2 |
+| _Westworld S3E5_ | 2020 | Ramin Djawadi | 0:47:14 | 2 |
+| _Cursed S1E4_ | 2020 | Jeff Russo | 0:06:47 | 2 |
+| _Fantasy Island_ | 2020 | Bear McCreary | 1:18:13 | 3 |
+| _The Flight Attendant S1E8_ | 2020 | Blake Neely | 0:39:12 | 3 |
+| _The Mandalorian Chapter 16_ | 2020 | Ludwig Göransson | 0:34:20 | 3 |
+| _The Empty Man_ | 2020 | Christopher Young & Lustmord | 1:24:28 | 3 |
+| _Deamon Slayer: Mugen Train_ | 2020 | Kajiura/Shiina | 1:30:00 | 2 |
+| _Loki S1E5_ | 2021 | Natalie Holt | 0:25:09 | 2 |
+| _Fear Street: 1994_ | 2021 | Marco Beltrami & M. Trumpp | 0:53:47 | 2 |
+| _Fear Street: 1666_ | 2021 | Marco Beltrami & M. Trumpp | 0:53:47 | 2 |
+| _Reminiscence_ | 2021 | Ramin Djawadi | 0:03:28 | 2 |
+| _Star Wars: Visions S1E4_ | 2021 | Kevin Penkin | 0:14:50 | 2 |
+| _White Lotus S1E1_ | 2021 | Cristobal Tapia de Veer | main titles | 3 |
+|_Last Night in Soho_ | 2021 | Dies Irae is Diegetic | 1:30:00 | 2 |
+| _No Time To Die_ | 2021 | Dies Irae is Diegetic | 0:20:21 | 2 |
+| _Gunpowder Milkshake_ | 2021 | Frank Ilfman | 1:31:46 | 3 |
+| _Ragnorak S2E3_ | 2021 | Halfdan E | 0:36:45 | 1b |
+| _Squid Game S1E3_ | 2021 | Jaeil Jung | 0:01:00 | 3 |
+| _Wheel of Time S1E2_ | 2021 | Lorne Balfe | 0:03:18 | 2 |
+| _Falcon and the Winter Soldier_ | 2021 | Henry Jackman | 0:02:08 | 2/3 |
+| _Shang-Chi & the Legend of the 10 Rings_ | 2021 | Joel P West | 0:06:40 | 3 |
+| _Arcane S1E7_ | 2021 | Dies Irae is Diegetic | 0:31:30 | 2 |
+| _Benedetta_ | 2021 | Anne Dudley | 1:29:00 | 1 |
+| _Nightmare Alley_ | 2021 | Nathan Johnson | 1:40:40 | 3 |
+| _Ghosts S1E4_ | 2021 | Jeff Cardoni | 0:07:20 | 2 |
+| _Cheer S2E5_ | 2022 | Joseph Minadeo | 0:10:18 | 1 |
+| _Flight Attendant S2E2_ | 2022 | Blake Neely | 0:31:18 | 3 |
+| _Inventing Anna S1E3_ | 2022 | Bowers/Charles | 0:19:14 | 3 |
+| _Moon Knight S1E3_ | 2022 | Hesham Nazih | 0:03:54 | 2 |
+| _Obi-Wan Kenobi_ | 2022 | Natalie Holt | 0:15:15 | 2 |
+| _Stranger Things S4E5_ | 2022 | Dixon/Stein | 0:07:45 | 1 |
+| _The Northman_ | 2022 | Carolan/Gainsborough | 0:02:43 | 3 |
+| _Disenchanted_ | 2022 | Alan Menken | 1:23:57 | 2 |
+| _Halloween Ends_ | 2022 | John & Cody Carpenter, Daniel Davies | 1:37:00 | 2 |
+| _Andor S1E10_ | 2022 | Nicholas Britell | 0:31:00 | 2 |
+| _Only Murders in the Building S2E6_ | 2022 | Siddhartha Khosla | 0:21:14 | 3 |
+| _Wednesday S1E1_ | 2022 | Danny Elfman | 0:08:00 | 2 |
 
-168. **_Crimson Peak_** (2015), score by Fernando Velazquez {00:00:00} Type 1
-169. **_Glitch S1E3_** (2015), score by Cornel Wilczeck {00:50:00} Type 2
-170. **_Terminator Genisys_** (2015), score by Lorne Balfe {1:27:03} Type 3b
-171. **_10 Cloverfield Lane_** (2016), score by Bear McCreary {00:00:00} Type 1
-172. **_Colossal_** (2016), score by Bear McCreary {01:38:11} Type 1
-173. **_Rogue One_** (2016), score by Michael Giacchino {01:12:48} Type 1
-174. **_Game of Thrones S6E5_** (2016), score by Ramin Djawadi {0:13:00} Type 1
-175. **_Star Trek Beyond_** (2016), score by Michael Giacchino {1:28:08} Type 3
-176. **_Dead by Daylight_** (2016), score by Michael April {main menu} Type 2
-177. **_Dr. Strange_** (2016), score by Michael Giacchino {1:35:36} Type 2
-178. **_Doctor Who: The Return of Mysterio S10_** (2016), score by Murray Gold {0:36:19} Type 2
-179. **_Pirates of the Caribbean 5: Dead Men Tell No Tales_** (2017), score by Geoff Zanelli {00:10:30} Type 1
-180. **_The Good Place S1E11_** (2017), score by David Schwartz {00:23:42} Type 1
-181. **_Justice League_** (2017), score by Danny Elfman {0:25:25} Type 3
-182. **_Survivor S35E9_** (2017), score by David Vanacore {0:20:50} Type 3
-183. **_The Scariest Story Ever Told: A Mickey Mouse Spooktacular_** (2017), score by Christopher Willis {0:07:14} Type 2
-184. **_Final Space S1E1_** (2018), score by Shelby Merry {opening titles} Type 3
-185. **_The Spy Gone North_** (2018), score by Yeong-wook Jo {01:04:40} Type 1
-186. **_Avengers: Infinity War_** (2018), score by Alan Silvestri {00:33:52} Type 1
-187. **_Ready Player One_** (2018), score by Alan Silvestri {00:57:51} Type 2
-188. **_Star Wars Rebels S4E11_** (2018), score by Kevin Kiner {00:02:26} Type 2
-189. **_Star Wars Rebels S4E13_** (2018), score by Kevin Kiner {00:14:28} Type 2
-190. **_Solo: A Star Wars Story_** (2018), score by John Powell {0:48:39} Type 2
-191. **_Stranger Things S3E8_** (2019), score by Michael Stein & Kyle Dixon {0:41:15} Type 2
-192. **_Fruits Basket S2E21_** (2019), score by Taku Kishimoto {0:13:17} Type 2
-193. **_Eli_** (2019), score by Bear McCreary {001:19:52} Type 1
-194. **_1BR_** (2019), score by Ronen Landa {00:27:00} Type 3
-195. **_Doctor Sleep_** (2019), score by The Newton Brothers {02:18:33} Type 2
-196. **_Frozen 2_** (2019), score by Christophe Beck {00:16:40} Type 2
-197. **_Succession S2E10_** (2019), score by Nicholas Britell {01:09:00} Type 2
-198. **_Toy Story_** (2019), score by Randy Newman {01:15:20} Type 2
-199. **_Christmas Prince: The Royal Baby_** (2019), score by Zack Ryan {0:59:38} Type 3
-200. **_Fargo S4E7_** (2020), score by Jeff Russo {0:25:31} Type 3
-201. **_Onward_** (2020), score by Jeff & Mychael Danna {01:06:00} Type 2
-202. **_Westworld S3E5_** (2020), score by Ramin Djawadi {00:47:14} Type 2
-203. **_Cursed S1E4_** (2020), score by Jeff Russo {00:06:47} Type 2
-204. **_Fantasy Island_** (2020), score by Bear McCreary {01:18:13} Type 3
-205. **_The Flight Attendant S1E8_** (2020), score by Blake Neely {0:39:12} Type 3
-206. **_The Mandalorian Chapter 16_** (2020), score by Ludwig Göransson {0:34:20} Type 3
-207. **_The Empty Man_** (2020), score by Christopher Young & Lustmord {1:24:28} Type 3
-208. **_Deamon Slayer: Mugen Train_** (2020), score by Kajiura/Shiina {1:30:00} Type 2
-209. **_Loki S1E5_** (2021), score by Natalie Holt {0:25:09} Type 2
-210. **_Fear Street: 1994_** (2021), score by Marco Beltrami & M. Trumpp {0:53:47} Type 2
-211. **_Fear Street: 1666_** (2021), score by Marco Beltrami & M. Trumpp {0:53:47} Type 2
-212. **_Reminiscence_** (2021), score by Ramin Djawadi {0:03:28} Type 2
-213. **_Star Wars: Visions S1E4_** (2021), score by Kevin Penkin {0:14:50} Type 2
-214. **_White Lotus S1E1_** (2021), score by Cristobal Tapia de Veer {main titles} Type 3
-215. **_Last Night in Soho_** (2021), Dies Irae is Diegetic {1:30:00} Type 2
-216. **_No Time To Die_** (2021), Dies Irae is Diegetic {0:20:21} Type 2
-217. **_Gunpowder Milkshake_** (2021), score by Frank Ilfman {1:31:46} Type 3
-218. **_Ragnorak S2E3_** (2021), score by Halfdan E {0:36:45} Type 1b
-219. **_Squid Game S1E3_** (2021), socre by Jaeil Jung {0:01:00} Type 3
-220. **_Wheel of Time S1E2_** (2021), score by Lorne Balfe {0:03:8) Type 2
-221. **_Falcon and the Winter Soldier_** (2021), score by Henry Jackman {0:02:08} Type 2/3
-222. **_Shang-Chi & the Legend of the 10 Rings_** (2021), score by Joel P West {0:06:40} Type 3
-223. **_Arcane S1E7_** (2021), Dies Irae is Diegetic {0:31:30} Type 2
-224. **_Benedetta_** (2021), score by Anne Dudley {1:29:00} Type 1
-225. **_Nightmare Alley_** (2021), score by Nathan Johnson {1:40:40} Type 3
-226. **_Ghosts S1E4_** (2021), score by Jeff Cardoni {0:07:20} Type 2
-227. **_Cheer S2E5_** (2022), score by Joseph Minadeo {0:10:18} Type 1
-228. **_Flight Attendant S2E2_** (2022), score by Blake Neely {0:31:18} Type 3
-229. **_Inventing Anna S1E3_** (2022), score by Bowers/Charles {0:19:14} Type 3
-230. **_Moon Knight S1E3_** (2022), score by Hesham Nazih {0:03:54} Type 2
-231. **_Obi-Wan Kenobi_** (2022), score by Natalie Holt {0:15:15} Type 2
-232. **_Stranger Things S4E5_** (2022), score by Dixon/Stein {0:07:45} Type 1
-233. **_The Northman_** (2022), score by Carolan/Gainsborough {0:02:43} Type 3
-234. **_Disenchanted_** (2022), score by Alan Menken {1:23:57} Type 2
-235. **_Halloween Ends_** (2022), score by John & Cody Carpenter, Daniel Davies {1:37:00} Type 2
-236. **_Andor S1E10_** (2022), score by Nicholas Britell {0:31:00} Type 2
-237. **_Only Murders in the Building S2E6_** (2022), score by Siddhartha Khosla {0:21:14] Type 3
-238. **_Wednesday S1E1_** (2022), score by Danny Elfman {0:08:00} Type 2
 
 
