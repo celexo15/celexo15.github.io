@@ -95,6 +95,7 @@ width="100%"></iframe>
 | _The Devils_ | 1971 | Peter Maxwell Davies | 0:06:21 | 1 | 
 | _Vampire Circus_ | 1972 | David Whitaker | 0:49:12 | 1 |
 | _The Vault of Horror_ | 1973 | Douglas Gamley | 0:00:06 | 1 |
+
 41. **_Le Trio Infernal_** (1974), score by Ennio Morricone {1:06:20} Type 1B
 42. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} Type 1
 43. **_The Devil is a Woman_** (1974), score by Ennio Morricone {0:00:54} Type 1
