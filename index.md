@@ -2,24 +2,6 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 
 [^1]: For more, see Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores,” Florilegium 15 (1998): 207-229; and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
 
-### Contact me here
-
-<form
-  action="https://formspree.io/f/xnqyqbwg"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
 # Table of Contents
 1. [Playlist of YouTube Supercuts](#playlist-of-youtube-supercuts)
 2. [Collection of Podcast Appearances](#collection-of-podcast-appearances)
@@ -341,4 +323,35 @@ width="100%"></iframe>
 | _Only Murders in the Building S2E6_ | 2022 | Siddhartha Khosla | 0:21:14 | 3 |
 | _Wednesday S1E1_ | 2022 | Danny Elfman | 0:08:00 | 2 |
 
+## Email us for any queries
 
+
+<body>
+  <form
+        name="input" 
+        action="https://formspree.io/f/xrgjadad" 
+        method="POST"
+        style="border: 3px solid green; width:50%"
+>
+    <div style="padding:10px;">
+      <label style="width:100%">
+        Your email:
+      </label>
+      <input type="email" name="email">
+    </div>
+    <div style="padding:10px">
+      <label style="width:100%">
+        Your message:
+      </label>
+      <textarea name="message"></textarea>
+    </div>
+  <!-- your other form fields go here -->
+    <input type="hidden" name="_subject" value="New query submitted" />
+    <input type="hidden" name="_next" value="https://ruchibahl18.github.io/superlazycoder.github.io/thanks" />
+    <div style="display:flex;width:100%;justify-content:center;padding:10px">
+      <input type="submit" value="Send" />
+    </div>
+  
+  
+</form>
+</body>
