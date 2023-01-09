@@ -7,7 +7,6 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 2. [Collection of Podcast Appearances](#collection-of-podcast-appearances)
 3. [My List of Dies Irae Quotations ](#my-list-of-dies-irae-quotations)
 
-
 # Playlist of YouTube Supercuts
 
 Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in film, television, and video games. 
@@ -42,6 +41,8 @@ Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</br>
+
 # Collection of Podcast Appearances
 
 Here are the various podcast episodes on which I have appeared to talk about the Dies Irae: 
@@ -74,6 +75,42 @@ width="100%"></iframe>
 *a podcast where we nerd out about 5 minutes from _SOLO_ 
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+</br>
+
+## Email me with any questions about Film Music Tropes
+
+
+<body>
+  <form
+        name="input" 
+        action="https://formspree.io/f/xrgjadad" 
+        method="POST"
+        style="border: 3px solid green; width:50%"
+>
+    <div style="padding:10px;">
+      <label style="width:100%">
+        Your email:
+      </label>
+      <input type="email" name="email">
+    </div>
+    <div style="padding:10px">
+      <label style="width:100%">
+        Your message:
+      </label>
+      <textarea name="message"></textarea>
+    </div>
+  <!-- your other form fields go here -->
+    <input type="hidden" name="_subject" value="New query submitted" />
+    <input type="hidden" name="_next" value="https://ruchibahl18.github.io/superlazycoder.github.io/thanks" />
+    <div style="display:flex;width:100%;justify-content:center;padding:10px">
+      <input type="submit" value="Send" />
+    </div>
+  
+  
+</form>
+</body>
+
 
 # My List of Dies Irae Quotations
 
@@ -323,35 +360,3 @@ width="100%"></iframe>
 | _Only Murders in the Building S2E6_ | 2022 | Siddhartha Khosla | 0:21:14 | 3 |
 | _Wednesday S1E1_ | 2022 | Danny Elfman | 0:08:00 | 2 |
 
-## Email us for any queries
-
-
-<body>
-  <form
-        name="input" 
-        action="https://formspree.io/f/xrgjadad" 
-        method="POST"
-        style="border: 3px solid green; width:50%"
->
-    <div style="padding:10px;">
-      <label style="width:100%">
-        Your email:
-      </label>
-      <input type="email" name="email">
-    </div>
-    <div style="padding:10px">
-      <label style="width:100%">
-        Your message:
-      </label>
-      <textarea name="message"></textarea>
-    </div>
-  <!-- your other form fields go here -->
-    <input type="hidden" name="_subject" value="New query submitted" />
-    <input type="hidden" name="_next" value="https://ruchibahl18.github.io/superlazycoder.github.io/thanks" />
-    <div style="display:flex;width:100%;justify-content:center;padding:10px">
-      <input type="submit" value="Send" />
-    </div>
-  
-  
-</form>
-</body>
