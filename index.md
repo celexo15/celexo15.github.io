@@ -2,6 +2,24 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 
 [^1]: For more, see Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores,” Florilegium 15 (1998): 207-229; and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
 
+### Contact me here
+
+<form
+  action="https://formspree.io/f/xnqyqbwg"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 # Table of Contents
 1. [Playlist of YouTube Supercuts](#playlist-of-youtube-supercuts)
 2. [Collection of Podcast Appearances](#collection-of-podcast-appearances)
