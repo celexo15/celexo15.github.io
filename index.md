@@ -78,7 +78,7 @@ width="100%"></iframe>
 
 
 <body>
-  <p style="text-align:center">Center this text</p>
+  <p style="text-align:center">Center this text
   <form
         name="input" 
         action="https://formspree.io/f/xrgjadad" 
@@ -102,7 +102,7 @@ width="100%"></iframe>
     <input type="hidden" name="_next" value="https://ruchibahl18.github.io/superlazycoder.github.io/thanks" />
     <div style="display:flex;width:100%;justify-content:center;padding:10px">
       <input type="submit" value="Send" />
-    </div>
+    </div></p>
   
   
   </form>
