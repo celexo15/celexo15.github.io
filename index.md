@@ -41,8 +41,6 @@ Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</br>
-
 # Collection of Podcast Appearances
 
 Here are the various podcast episodes on which I have appeared to talk about the Dies Irae: 
@@ -76,12 +74,11 @@ width="100%"></iframe>
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-</br>
-
-## Email me with any questions about Film Music Tropes
+## Email me with any additions to my list!
 
 
 <body>
+  <p style="text-align:center">Center this text</p>
   <form
         name="input" 
         action="https://formspree.io/f/xrgjadad" 
@@ -108,7 +105,7 @@ width="100%"></iframe>
     </div>
   
   
-</form>
+  </form>
 </body>
 
 
