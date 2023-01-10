@@ -4,4 +4,4 @@ title: "ABOUT"
 permalink:/about
 
 
-###hello I am Alex L
+hello, I am Alex L
