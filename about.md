@@ -1,7 +1,7 @@
 
 layout: page
 title: "ABOUT"
-permalink: /celexo15.github.io-2/about
+permalink:/about
 
 
 ###hello I am Alex L
