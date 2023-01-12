@@ -3,4 +3,4 @@ Hello! My name is Alex Ludwig, and I am an Associate Professor of Liberal Arts a
 
 When I’m not teaching, I’m playing and coaching soccer, or watching hockey, or running after my son, Lucas, or my  dog, Sofi.
 
-<img width="358" alt="Woodstock" src="https://https://user-images.githubusercontent.com/122038427/211906784-00fb631e-495d-4a80-b5fe-ce95c8be0bff.jpg">
+![VL2I4Sux_400x400](https://user-images.githubusercontent.com/122038427/211906784-00fb631e-495d-4a80-b5fe-ce95c8be0bff.jpg)
