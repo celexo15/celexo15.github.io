@@ -1,7 +1,3 @@
-<a href="about.html">Read about me</a>
-
-<a href="woodstock.html">Interested in Woodstock? Check out my new book!</a>
-
 The use of the “Dies irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019) and _The Mandalorian_ (2020). 
 
 [^1]: For more, see Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores,” Florilegium 15 (1998): 207-229; and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
