@@ -6,6 +6,7 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 1. [Playlist of YouTube Supercuts](#playlist-of-youtube-supercuts)
 2. [Collection of Podcast Appearances](#collection-of-podcast-appearances)
 3. [My List of Dies Irae Quotations ](#my-list-of-dies-irae-quotations)
+4. [Email Me] (#email-me-with-any-additions-to-my-list) 
 
 # Playlist of YouTube Supercuts
 
@@ -84,7 +85,7 @@ width="100%"></iframe>
 
 <br>
 
-## Email me with any additions to my list!
+# Email me with any additions to my list!
 
 
 <body>
